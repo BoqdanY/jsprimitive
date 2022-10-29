@@ -12,4 +12,4 @@ function generateKey(length, characters) {
     return res;
 }
 
-console.log(generateKey(44, 'abcdefg'));
+console.log(generateKey(3, 'abcdefg'));
